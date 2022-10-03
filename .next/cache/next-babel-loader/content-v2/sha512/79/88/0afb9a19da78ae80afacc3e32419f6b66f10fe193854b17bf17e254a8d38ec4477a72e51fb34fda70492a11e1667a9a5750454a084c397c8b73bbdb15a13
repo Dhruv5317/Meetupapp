@@ -1,0 +1,1 @@
+{"ast":null,"code":"function Homepage() {}\n\nexport default Homr;","map":{"version":3,"sources":["D:/React/Next-js/06-onwards-to-a-bigger-project-starting-project/pages/index.js"],"names":["Homepage","Homr"],"mappings":"AAAA,SAASA,QAAT,GAAmB,CAElB;;AACD,eAAeC,IAAf","sourcesContent":["function Homepage(){\r\n\r\n}\r\nexport default Homr"]},"metadata":{},"sourceType":"module"}

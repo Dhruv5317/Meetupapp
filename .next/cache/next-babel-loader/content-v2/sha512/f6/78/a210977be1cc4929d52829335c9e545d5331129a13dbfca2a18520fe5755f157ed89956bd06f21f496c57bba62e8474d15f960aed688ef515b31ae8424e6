@@ -1,0 +1,1 @@
+{"ast":null,"code":"function Homepage() {}\n\nexport default H;","map":{"version":3,"sources":["D:/React/Next-js/06-onwards-to-a-bigger-project-starting-project/pages/index.js"],"names":["Homepage","H"],"mappings":"AAAA,SAASA,QAAT,GAAmB,CAElB;;AACD,eAAeC,CAAf","sourcesContent":["function Homepage(){\r\n\r\n}\r\nexport default H"]},"metadata":{},"sourceType":"module"}
